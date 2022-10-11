@@ -1,2 +1,3 @@
 # guessing-game
-Guessing game created from JavaScript course!
+Guessing game using basic JavaScript knowledge.
+
